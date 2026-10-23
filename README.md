@@ -5,3 +5,5 @@ system1   system2   system3
 相等的两个方程是singular叫做infinite solutions
 平行的两个方程是singular叫做No solutions
           
+矩阵 判断矩阵奇异性或非奇异性
+看地13课
